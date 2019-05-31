@@ -88,7 +88,7 @@
             sendAuth: function () {
                 if (this.validateForm())
                 {
-                    if (this.email == "admin@gmail.com" && this.password == 'admin123' ) {
+                    if (this.email == "ad@gmail.com" && this.password == '123' ) {
                         this.$root.showContent = true;
                         this.$root.token = "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1bmlxdWVfbmFtZSI6ImNoZW1hbG9uc285NiIsIm5iZiI6MTU1ODczNzI0MiwiZXhwIjoxNTU4NzQwODQyLCJpYXQiOjE1NTg3MzcyNDIsImlzcyI6Imh0dHA6Ly82NC4yMDIuMTg2LjIxNS9BUElNZWthV2FzaCIsImF1ZCI6Imh0dHA6Ly82NC4yMDIuMTg2LjIxNS9BUElNZWthV2FzaCJ9.UFk-N6DEhYeR2OTHWFKkbm8CFcoiw1ENlGWpr-66meU";
 
@@ -105,6 +105,8 @@
             if (this.$root.token !== "") {
                 this.$router.push({ name: 'Dashboard'});
             }
+
+
         }
     }
 </script>
