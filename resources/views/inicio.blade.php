@@ -57,20 +57,19 @@
         <div class="container">
             <div class="row">
                 <div class="overview col-lg-8 col-12">
-                    <h2 class="title">Delta helps you promote your mobile app</h2>
+                    <h2 class="title">Meca Wash te ayuda a encontrar el servicio automovilístico que necesitas al mejor precio</h2>
                     <ul class="summary">
-                        <li>Showcase and promote your mobile app to the web</li>
-                        <li>Demonstrate how the app works</li>
-                        <li>Provide answers to common questions</li>
-                        <li>Tell the world about the story behind the app</li>
+                        <li>Encuentra servicios de car whash, mecánica, planchado, pintura o tunning para tu vehículo</li>
+                        <li>Puedes encontrar la empresa más cerca a ti, con la calidad garantizada por otros usuarios</li>
+                        <li>Ahorra tiempo y recibe una cotización a domicilio</li>
                     </ul>
                     <div class="download-area">
                         <ul class="list-inline">
-                            <li class="ios-btn list-inline-item"><a href="#">Download from the App Store</a></li>
-                            <li class="android-btn list-inline-item"><a href="#">Get it from Google Play</a></li>
+                            <li class="ios-btn list-inline-item"><a href="#">Descarga desde el App Store</a></li>
+                            <li class="android-btn list-inline-item"><a href="#">Obtenlo desde Google Play</a></li>
                         </ul>
                         <div class="note text-center">
-                            <p>30% OFF - Now only $0.99<br />Offer ends 31st March</p>
+                            <p>Regístrate ahora y recibe <br/> 30% de descuento <br/> en tu primera reserva</p>
                             <span class="left-arrow"></span>
                             <span class="right-arrow"></span>
                         </div><!--//note-->
@@ -106,79 +105,31 @@
     <section id="features" class="features section">
         <div class="container">
             <div class="row">
-                <h2 class="title text-center sr-only">Features</h2>
-                <div class="item col-lg-3 col-md-6 col-12 text-center">
-                    <div class="icon">
-                        <i class="fas fa-cloud-upload-alt"></i>
-                    </div><!--//icon-->
-                    <div class="content">
-                        <h3 class="title">App Feature One</h3>
-
-                        <p>Outline an app feature/benefit here. You can change the icon above to any of the 1000+ <a href="http://fortawesome.github.io/Font-Awesome/icons/" target="_blank">FontAwesome 5 icons</a> available. </p>
-                        <button class="modal-trigger btn btn-link" data-toggle="modal" data-target="#feature-modal-1">Find out more</button>
-                    </div><!--//content-->
-                </div><!--//item-->
-                <div class="item col-lg-3 col-md-6 col-12 text-center">
-                    <div class="icon">
-                        <i class="fas fa-rocket"></i>
-                    </div><!--//icon-->
-                    <div class="content">
-                        <h3 class="title">App Feature Two</h3>
-                        <p>Outline an app feature/benefit here. You can change the icon above to any of the 1000+ <a href="http://fortawesome.github.io/Font-Awesome/icons/" target="_blank">FontAwesome 5 icons</a> available. </p>
-                        <button class="modal-trigger btn btn-link" data-toggle="modal" data-target="#feature-modal-1">Find out more</button>
-                    </div><!--//content-->
-                </div><!--//item-->
-                <div class="item col-lg-3 col-md-6 col-12 text-center">
-                    <div class="icon">
-                        <i class="fas fa-users"></i>
-                    </div><!--//icon-->
-                    <div class="content">
-                        <h3 class="title">App Feature Three</h3>
-                        <p>Outline an app feature/benefit here. You can change the icon above to any of the 1000+ <a href="http://fortawesome.github.io/Font-Awesome/icons/" target="_blank">FontAwesome 5 icons</a> available. </p>
-                        <button class="modal-trigger btn btn-link" data-toggle="modal" data-target="#feature-modal-1">Find out more</button>
-                    </div><!--//content-->
-                </div><!--//item-->
-                <div class="item col-lg-3 col-md-6 col-12 text-center">
+                <h2 class="title text-center sr-only">Funcionalidades</h2>
+                <div class="item col-lg-4 col-md-6 col-12 text-center">
                     <div class="icon">
                         <i class="fas fa-map-marker-alt"></i>
                     </div><!--//icon-->
                     <div class="content">
-                        <h3 class="title">App Feature Four</h3>
-                        <p>Outline an app feature/benefit here. You can change the icon above to any of the 1000+ <a href="http://fortawesome.github.io/Font-Awesome/icons/" target="_blank">FontAwesome 5 icons</a> available. </p>
-                        <button class="modal-trigger btn btn-link" data-toggle="modal" data-target="#feature-modal-1">Find out more</button>
+                        <h3 class="title">Empresas cercanas a tu ubicación.</h3>
+
                     </div><!--//content-->
                 </div><!--//item-->
-            </div><!--//row-->
+                <div class="item col-lg-4 col-md-6 col-12 text-center">
+                    <div class="icon">
+                        <i class="fas fa-rocket"></i>
+                    </div><!--//icon-->
+                    <div class="content">
+                        <h3 class="title">Precios de acuerdo a tu presupuesto.</h3>
+                    </div><!--//content-->
+                </div><!--//item-->
 
-            <div class="row feature-row-last">
                 <div class="item col-lg-4 col-md-6 col-12 text-center">
                     <div class="icon">
                         <i class="fas fa-calendar-alt"></i>
                     </div><!--//icon-->
                     <div class="content">
-                        <h3 class="title">App Feature One</h3>
-                        <p>Outline an app feature/benefit here. You can change the icon above to any of the 1000+ <a href="http://fortawesome.github.io/Font-Awesome/icons/" target="_blank">FontAwesome 5 icons</a> available. </p>
-                        <button class="modal-trigger btn btn-link" data-toggle="modal" data-target="#feature-modal-1">Find out more</button>
-                    </div><!--//content-->
-                </div><!--//item-->
-                <div class="item col-lg-4 col-md-6 col-12 text-center">
-                    <div class="icon">
-                        <i class="fas fa-comments"></i>
-                    </div><!--//icon-->
-                    <div class="content">
-                        <h3 class="title">App Feature Two</h3>
-                        <p>Outline an app feature/benefit. You can change the icon above to any of the 1000+ <a href="http://fortawesome.github.io/Font-Awesome/icons/" target="_blank">FontAwesome 5 icons</a> available. </p>
-                        <button class="modal-trigger btn btn-link" data-toggle="modal" data-target="#feature-modal-1">Find out more</button>
-                    </div><!--//content-->
-                </div><!--//item-->
-                <div class="item col-lg-4 col-md-6 col-12 text-center">
-                    <div class="icon">
-                        <i class="fas fa-globe"></i>
-                    </div><!--//icon-->
-                    <div class="content">
-                        <h3 class="title">App Feature Three</h3>
-                        <p>Outline an app feature/benefit here. You can change the icon above to any of the 1000+ <a href="http://fortawesome.github.io/Font-Awesome/icons/" target="_blank">FontAwesome 5 icons</a> available. </p>
-                        <button class="modal-trigger btn btn-link" data-toggle="modal" data-target="#feature-modal-1">Find out more</button>
+                        <h3 class="title">Ten control de tus reservas</h3>
                     </div><!--//content-->
                 </div><!--//item-->
             </div><!--//row-->
@@ -190,8 +141,8 @@
         <div class="container">
             <div class="row">
                 <div class="content col-md-6 col-12 order-md-12 text-center">
-                    <h2 class="title">How it works</h2>
-                    <p class="intro">You can <a href="http://blog.sensortower.com/blog/2013/07/19/3-ways-to-create-a-great-ios-app-demo-video-without-breaking-the-bank/" target="_blank">create a video demo</a> for your app to demonstrate how the app works. You can also <a href="http://www.qrstuff.com/" target="_blank">generate QR codes</a> for the app download links.</p>
+                    <h2 class="title">¿Cómo funciona?</h2>
+                    <p class="intro">Descarga la aplicación y comienza a disfrutar de los beneficios que te trae <br/> Meca Wash.</p>
                 </div><!--//content-->
                 <div id="video-container" class="video-container col-md-6 col-12 order-md-1">
                     <div class="embed-responsive embed-responsive-16by9">
@@ -205,25 +156,26 @@
     <!-- ******Pricing****** -->
     <section id="pricing" class="pricing section has-pattern">
         <div class="container">
-            <h2 class="title text-center">Choose your plan today</h2>
+            <h2 class="title text-center">PLANES DE LA EMPRESA</h2>
             <div class="price-cols row">
                 <div class="items-wrapper col-lg-10 col-12 ml-lg-auto mr-lg-auto">
                     <div class="row">
                         <div class="item price-1 col-md-4 col-12 text-center">
                             <div class="item-inner">
                                 <div class="heading">
-                                    <h3 class="title">Personal</h3>
-                                    <p class="price-figure"><span class="price-figure-inner"><span class="currency">$</span><span class="number">5</span><br /><span class="unit"> per month</span></span></p>
+                                    <h3 class="title">Básico</h3>
+                                    <p class="price-figure">
+                                        <span class="price-figure-inner"><span class="currency">S/.</span>
+                                            <span class="number">50</span><br /><span class="unit"> al año.</span>
+                                        </span></p>
                                 </div>
                                 <div class="content">
                                     <ul class="list-unstyled feature-list">
-                                        <li><i class="fas fa-check"></i>1 user</li>
-                                        <li><i class="fas fa-check"></i>10 GB storage</li>
-                                        <li class="disabled"><i class="fas fa-times"></i>Email priority support</li>
-                                        <li class="disabled"><i class="fas fa-times"></i>Free update</li>
-                                        <li class="disabled"><i class="fas fa-times"></i>24/7 support</li>
+                                        <li><i class="fas fa-check"></i>1 locla por empresa</li>
+                                        <li class="disabled"><i class="fas fa-times"></i>Actualizaciones gratis</li>
+                                        <li class="disabled"><i class="fas fa-times"></i>Soporte 24/7</li>
                                     </ul>
-                                    <a class="btn btn-theme btn-block" href="#">Sign Up</a>
+                                    <a class="btn btn-theme btn-block" href="#">Obtener</a>
 
                                 </div><!--//content-->
                             </div><!--//item-inner-->
@@ -232,19 +184,17 @@
                         <div class="item price-2 col-md-4 col-12 text-center best-buy">
                             <div class="item-inner">
                                 <div class="heading">
-                                    <h3 class="title">Professional</h3>
-                                    <p class="price-figure"><span class="price-figure-inner"><span class="currency">$</span><span class="number">10</span><br /><span class="unit">per month</span></span></p>
+                                    <h3 class="title">Premium</h3>
+                                    <p class="price-figure"><span class="price-figure-inner"><span class="currency">S/.</span><span class="number">20</span><br /><span class="unit">mensual.</span></span></p>
                                 </div>
                                 <div class="content">
                                     <ul class="list-unstyled feature-list">
-                                        <li><i class="fas fa-check"></i>10 users</li>
-                                        <li><i class="fas fa-check"></i>30 GB storage</li>
-                                        <li><i class="fas fa-check"></i>Email priority support</li>
-                                        <li><i class="fas fa-check"></i>Free update</li>
-                                        <li class="disabled"><i class="fas fa-times"></i>24/7 support</li>
+                                        <li><i class="fas fa-check"></i>5 locales</li>
+                                        <li><i class="fas fa-check"></i>Actualizaciones gratis</li>
+                                        <li class="disabled"><i class="fas fa-times"></i>Soporte 24/7</li>
 
                                     </ul>
-                                    <a class="btn btn-theme btn-block" href="#">Sign Up</a>
+                                    <a class="btn btn-theme btn-block" href="#">Obtener</a>
                                 </div><!--//content-->
                                 <div class="ribbon">
                                     <div class="text">Popular</div>
@@ -255,18 +205,16 @@
                         <div class="item price-3 col-md-4 col-12 text-center">
                             <div class="item-inner">
                                 <div class="heading">
-                                    <h3 class="title">Business</h3>
-                                    <p class="price-figure"><span class="price-figure-inner"><span class="currency">$</span><span class="number">25</span><br /><span class="unit">per month</span></span></p>
+                                    <h3 class="title">Super Premium</h3>
+                                    <p class="price-figure"><span class="price-figure-inner"><span class="currency">S/.</span><span class="number">200</span><br /><span class="unit">al año.</span></span></p>
                                 </div>
                                 <div class="content">
                                     <ul class="list-unstyled feature-list">
-                                        <li><i class="fas fa-check"></i>Unlimited user</li>
-                                        <li><i class="fas fa-check"></i>100 GB storage</li>
-                                        <li><i class="fas fa-check"></i>Email priority support</li>
-                                        <li><i class="fas fa-check"></i>Free update</li>
-                                        <li><i class="fas fa-check"></i>24/7 support</li>
+                                        <li><i class="fas fa-check"></i>Locales ilimitados</li>
+                                        <li><i class="fas fa-check"></i>Actualizaciones gratis</li>
+                                        <li><i class="fas fa-check"></i>Soporte 24/7</li>
                                     </ul>
-                                    <a class="btn btn-theme btn-block" href="#">Sign Up</a>
+                                    <a class="btn btn-theme btn-block" href="#">Obtener</a>
 
                                 </div><!--//content-->
                             </div><!--//item-inner-->
