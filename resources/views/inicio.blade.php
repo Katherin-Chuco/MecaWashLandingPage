@@ -45,7 +45,7 @@
                         <li class="nav-item"><a class="nav-link scrollto" href="#features">Funcionalidades</a></li>
                         <li class="nav-item"><a class="nav-link scrollto" href="#story">¿Como funciona?</a></li>
                         <li class="nav-item"><a class="nav-link scrollto" href="#pricing">Precios</a></li>
-                        <li class="nav-item last"><a class="nav-link scrollto" href="#contact">Contactanos</a></li>
+                        <li class="nav-item last"><a class="nav-link scrollto" href="#contact">Descarga</a></li>
                     </ul><!--//nav-->
                 </div><!--//navabr-collapse-->
             </nav><!--//main-nav-->
@@ -104,8 +104,10 @@
     <!-- ******FEATURES****** -->
     <section id="features" class="features section">
         <div class="container">
+            <h2 class="title text-center">Funcionalidades para Clientes</h2>
+            <br>
+            <br>
             <div class="row">
-                <h2 class="title text-center sr-only">Funcionalidades</h2>
                 <div class="item col-lg-4 col-md-6 col-12 text-center">
                     <div class="icon">
                         <i class="fas fa-map-marker-alt"></i>
@@ -117,7 +119,7 @@
                 </div><!--//item-->
                 <div class="item col-lg-4 col-md-6 col-12 text-center">
                     <div class="icon">
-                        <i class="fas fa-rocket"></i>
+                        <i class="fas fa-money-bill"></i>
                     </div><!--//icon-->
                     <div class="content">
                         <h3 class="title">Precios de acuerdo a tu presupuesto.</h3>
@@ -133,6 +135,41 @@
                     </div><!--//content-->
                 </div><!--//item-->
             </div><!--//row-->
+
+            <br>
+            <br>
+            <br>
+            <h2 class="title text-center">Funcionalidades para Empresas</h2>
+            <br>
+            <br>
+            <div class="row">
+                <div class="item col-lg-4 col-md-6 col-12 text-center">
+                    <div class="icon">
+                        <i class="fas fa-users"></i>
+                    </div><!--//icon-->
+                    <div class="content">
+                        <h3 class="title">Acceso de una red de clientes.</h3>
+
+                    </div><!--//content-->
+                </div><!--//item-->
+                <div class="item col-lg-4 col-md-6 col-12 text-center">
+                    <div class="icon">
+                        <i class="fas fa-comments"></i>
+                    </div><!--//icon-->
+                    <div class="content">
+                        <h3 class="title">Cercanía con tus clientes.</h3>
+                    </div><!--//content-->
+                </div><!--//item-->
+
+                <div class="item col-lg-4 col-md-6 col-12 text-center">
+                    <div class="icon">
+                        <i class="fas fa-calendar-alt"></i>
+                    </div><!--//icon-->
+                    <div class="content">
+                        <h3 class="title">Control de tus servicios brindados.</h3>
+                    </div><!--//content-->
+                </div><!--//item-->
+            </div><!--//row-->
         </div><!--//container-->
     </section><!--//features-->
 
@@ -141,14 +178,27 @@
         <div class="container">
             <div class="row">
                 <div class="content col-md-6 col-12 order-md-12 text-center">
-                    <h2 class="title">¿Cómo funciona?</h2>
-                    <p class="intro">Descarga la aplicación y comienza a disfrutar de los beneficios que te trae <br/> Meca Wash.</p>
+                    <h2 class="title">La historia detrás de la aplicación</h2>
+                    <p class="intro">Proceso de desarrollo de <br/> Meca Wash.</p>
+                    <div class="team col-md-5 col-12 mr-auto ml-auto">
+                        <div class="row">
+                            <div class="member text-center">
+                                <img class="rounded" src="assets/images/team/member-1.png" alt="" />
+                                <p class="name">Katherin Chuco</p>
+                                <ul class="connect list-inline">
+                                    <li class="list-inline-item"><a href="#" ><i class="fab fa-twitter"></i></a></li>
+                                    <li class="list-inline-item"><a href="#" ><i class="fab fa-linkedin"></i></a></li>
+                                    <li class="row-end list-inline-item"><a href="#" ><i class="fab fa-github"></i></a></li>
+                                </ul>
+                            </div><!--//member-->
+                        </div>
+                    </div><!--//team-->
                 </div><!--//content-->
                 <div id="video-container" class="video-container col-md-6 col-12 order-md-1">
                     <div class="embed-responsive embed-responsive-16by9">
-                        <iframe class="embed-responsive-item" src="//player.vimeo.com/video/87044590" width="570" height="320" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
+                        <iframe class="embed-responsive-item" src="https://player.vimeo.com/video/342311640" width="640" height="360" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
                     </div>
-                </div><!--//video-->
+                </div><!--//video<iframe src="https://player.vimeo.com/video/342311640" width="640" height="360" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>-->
             </div><!--//row-->
         </div><!--//container-->
     </section><!--//how-->
@@ -226,26 +276,19 @@
     </section><!--//pricing-->
 
     <!-- ******CONTACT****** -->
-    <section id="contact" class="contact section has-pattern">
+    <section id="contact" class="contact section offset-header has-pattern">
         <div class="container">
-            <h2 class="title text-center">Contáctanos</h2>
-            <div class="row text-center">
-                <div class="intro col-lg-6 col-12 ml-lg-auto mr-lg-auto">
-                    <p>Escribenos si tienes alguna duda. Estamos para atenderte.</p>
-                    <ul class="list-unstyled contact-details">
-                        <li><i class="fas fa-envelope"></i><a href="mailto:hello@website.com">contacto@makesolutions.com</a></li>
-                        <li><i class="fas fa-phone-square"></i>0800 123 456</li>
-                    </ul>
-                </div>
-            </div><!--//row-->
-            <div class="text-center">
-                <ul class="social-icons list-inline">
-                    <li class="list-inline-item"><a href="#" ><i class="fab fa-twitter"></i></a></li>
-                    <li class="list-inline-item"><a href="#" ><i class="fab fa-facebook-f"></i></a></li>
-                    <li class="list-inline-item"><a href="#" ><i class="fab fa-linkedin-in"></i></a></li>
-                    <li class="list-inline-item"><a href="#" ><i class="fab fa-google-plus-g"></i></a></li>
-                </ul><!--//social-icons-->
-            </div><!--//row-->
+            <div class="">
+                <ul class="list-inline">
+                    <li class="ios-btn list-inline-item"><a href="#">Descarga desde el App Store</a></li>
+                    <li class="android-btn list-inline-item"><a href="#">Obtenlo desde Google Play</a></li>
+                </ul>
+                <div class="note text-center">
+                    <p>Regístrate ahora y recibe <br/> 30% de descuento <br/> en tu primera reserva</p>
+                    <span class="left-arrow"></span>
+                    <span class="right-arrow"></span>
+                </div><!--//note-->
+            </div>
         </div><!--//container-->
     </section><!--//contact-->
 
