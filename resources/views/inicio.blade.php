@@ -178,7 +178,7 @@
             <div class="row">
                 <div class="content col-md-6 col-12 order-md-12 text-center">
                     <h2 class="title">¿Cómo funciona?</h2>
-                    <p class="intro">Mira el video y descrubre las funcionalidades que MecaWash tiene para ti.</p>
+                    <p class="intro">Descubre como funciona Meca Wash y los testimonios de quienes usaron la aplicación.</p>
                     <div class="qr-codes d-none d-lg-block">
                     </div><!--//qr-codes-->
                 </div><!--//content-->
@@ -299,7 +299,7 @@
     <section id="promo" class="promo section offset-header has-pattern">
         <div class="container">
             <div class="row">
-                <div class="overview col-lg-10 col-12" style="text-align: center; margin-top: 0">
+                <div class="overview col-lg-12 col-12" style="text-align: center; margin-top: 0">
                     <div class="download-area">
                         <ul class="list-inline">
                             <li class="ios-btn list-inline-item"><a href="#">Descarga desde el App Store</a></li>
