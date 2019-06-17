@@ -131,7 +131,7 @@
                         <i class="fas fa-calendar-alt"></i>
                     </div><!--//icon-->
                     <div class="content">
-                        <h3 class="title">Ten control de tus reservas</h3>
+                        <h3 class="title">Reserva y recibe cotización de servicios.</h3>
                     </div><!--//content-->
                 </div><!--//item-->
             </div><!--//row-->
@@ -173,32 +173,52 @@
         </div><!--//container-->
     </section><!--//features-->
 
+    <section id="how" class="how section has-pattern">
+        <div class="container">
+            <div class="row">
+                <div class="content col-md-6 col-12 order-md-12 text-center">
+                    <h2 class="title">¿Cómo funciona?</h2>
+                    <p class="intro">Mira el video y descrubre las funcionalidades que MecaWash tiene para ti.</p>
+                    <div class="qr-codes d-none d-lg-block">
+                    </div><!--//qr-codes-->
+                </div><!--//content-->
+                <div id="video-container" class="video-container col-md-6 col-12 order-md-1">
+                    <div class="embed-responsive embed-responsive-16by9">
+                        <iframe class="embed-responsive-item" src="https://player.vimeo.com/video/342641479" width="640" height="564" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
+                    </div>
+                </div><!--//video-->
+            </div><!--//row-->
+        </div><!--//container-->
+    </section><!--//how-->
+
     <!-- ******HOW****** -->
     <section id="story" class="story section has-pattern">
         <div class="container">
             <div class="row">
-                <div class="content col-md-6 col-12 order-md-12 text-center">
-                    <h2 class="title">La historia detrás de la aplicación</h2>
-                    <p class="intro">Proceso de desarrollo de <br/> Meca Wash.</p>
-                    <div class="team col-md-5 col-12 mr-auto ml-auto">
-                        <div class="row">
-                            <div class="member text-center">
-                                <img class="rounded" src="assets/images/team/member-1.png" alt="" />
-                                <p class="name">Katherin Chuco</p>
-                                <ul class="connect list-inline">
-                                    <li class="list-inline-item"><a href="#" ><i class="fab fa-twitter"></i></a></li>
-                                    <li class="list-inline-item"><a href="#" ><i class="fab fa-linkedin"></i></a></li>
-                                    <li class="row-end list-inline-item"><a href="#" ><i class="fab fa-github"></i></a></li>
-                                </ul>
-                            </div><!--//member-->
+                <div class="content col-md-6 col-12">
+                    <h2 class="title text-center">Historia detrás de la aplicación</h2>
+                    <div id="video-container" class="video-container order-md-1">
+                        <div class="embed-responsive embed-responsive-16by9">
+                            <iframe class="embed-responsive-item" src="https://player.vimeo.com/video/342636030" width="640" height="564" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
                         </div>
-                    </div><!--//team-->
-                </div><!--//content-->
-                <div id="video-container" class="video-container col-md-6 col-12 order-md-1">
-                    <div class="embed-responsive embed-responsive-16by9">
-                        <iframe class="embed-responsive-item" src="https://player.vimeo.com/video/342311640" width="640" height="360" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
                     </div>
-                </div><!--//video<iframe src="https://player.vimeo.com/video/342311640" width="640" height="360" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>-->
+
+                </div><!--//content-->
+                <div class="team col-md-5 col-12 mr-auto ml-auto" style="padding-top: 70px">
+                    <div class="row">
+                        <div class="member col-12 text-center">
+                            <img class="rounded" src="/images/team/member-1.jpg" alt="" />
+                            <p class="name">Katherin Chuco</p>
+                            <p class="title">Desarrolladora</p>
+                            <ul class="connect list-inline">
+                                <li class="list-inline-item"><a href="#" ><i class="fab fa-twitter"></i></a></li>
+                                <li class="list-inline-item"><a href="#" ><i class="fab fa-linkedin"></i></a></li>
+                                <li class="row-end list-inline-item"><a href="#" ><i class="fab fa-github"></i></a></li>
+                            </ul>
+                        </div><!--//member-->
+
+                    </div>
+                </div><!--//team-->
             </div><!--//row-->
         </div><!--//container-->
     </section><!--//how-->
@@ -276,18 +296,22 @@
     </section><!--//pricing-->
 
     <!-- ******CONTACT****** -->
-    <section id="contact" class="contact section offset-header has-pattern">
+    <section id="promo" class="promo section offset-header has-pattern">
         <div class="container">
-            <div class="">
-                <ul class="list-inline">
-                    <li class="ios-btn list-inline-item"><a href="#">Descarga desde el App Store</a></li>
-                    <li class="android-btn list-inline-item"><a href="#">Obtenlo desde Google Play</a></li>
-                </ul>
-                <div class="note text-center">
-                    <p>Regístrate ahora y recibe <br/> 30% de descuento <br/> en tu primera reserva</p>
-                    <span class="left-arrow"></span>
-                    <span class="right-arrow"></span>
-                </div><!--//note-->
+            <div class="row">
+                <div class="overview col-lg-10 col-12" style="text-align: center; margin-top: 0">
+                    <div class="download-area">
+                        <ul class="list-inline">
+                            <li class="ios-btn list-inline-item"><a href="#">Descarga desde el App Store</a></li>
+                            <li class="android-btn list-inline-item"><a href="#">Obtenlo desde Google Play</a></li>
+                        </ul>
+                        <div class="note text-center">
+                            <p>Regístrate ahora y recibe <br/> 30% de descuento <br/> en tu primera reserva</p>
+                            <span class="left-arrow"></span>
+                            <span class="right-arrow"></span>
+                        </div><!--//note-->
+                    </div>
+                </div>
             </div>
         </div><!--//container-->
     </section><!--//contact-->
