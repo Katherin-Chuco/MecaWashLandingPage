@@ -14,7 +14,7 @@ import Login from './pages/Login'
 
 const routes = [
     {
-        path:'/home',
+        path:'/terminos-y-politicas',
         name: 'Dashboard',
         component: Dashboard
     },

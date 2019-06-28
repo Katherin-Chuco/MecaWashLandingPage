@@ -184,7 +184,7 @@
                 </div><!--//content-->
                 <div id="video-container" class="video-container col-md-6 col-12 order-md-1">
                     <div class="embed-responsive embed-responsive-16by9">
-                        <iframe class="embed-responsive-item" src="https://player.vimeo.com/video/342641479" width="640" height="564" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
+                        <iframe class="embed-responsive-item" src="https://player.vimeo.com/video/344995465" width="640" height="564" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
                     </div>
                 </div><!--//video-->
             </div><!--//row-->
@@ -241,7 +241,7 @@
                                 </div>
                                 <div class="content">
                                     <ul class="list-unstyled feature-list">
-                                        <li><i class="fas fa-check"></i>1 locla por empresa</li>
+                                        <li><i class="fas fa-check"></i>1 local por empresa</li>
                                         <li class="disabled"><i class="fas fa-times"></i>Actualizaciones gratis</li>
                                         <li class="disabled"><i class="fas fa-times"></i>Soporte 24/7</li>
                                     </ul>
@@ -319,6 +319,9 @@
     <!-- ******FOOTER****** -->
     <footer class="footer">
         <div class="container text-center">
+            <small class="copyright"><a href="/terminos-politicas">Términos y Políticas</a></small>
+            <br/>
+            <br/>
             <small class="copyright">Make Solutions &copy; 2019</small>
         </div>
     </footer><!--//footer-->

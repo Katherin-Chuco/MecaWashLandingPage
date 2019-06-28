@@ -12,6 +12,7 @@
 */
 
 $router->get('/', "HomeController@inicio");
+$router->get('/terminos-politicas', "HomeController@terminos");
 
 $router->get('/prueba', function () {
 
