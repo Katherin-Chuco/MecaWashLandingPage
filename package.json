@@ -14,12 +14,8 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "axios": "^0.18.0",
-    "c3": "^0.7.0",
-    "d3": "^5.9.2",
     "vue": "^2.6.10",
-    "vue-router": "^3.0.6",
-    "vue2-datepicker": "^2.11.0"
+    "vue-router": "^3.0.6"
   },
   "devDependencies": {
     "cross-env": "^5.2.0",

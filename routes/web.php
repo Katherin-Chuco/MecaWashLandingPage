@@ -13,25 +13,3 @@
 
 $router->get('/', "HomeController@inicio");
 $router->get('/terminos-politicas', "HomeController@terminos");
-
-$router->get('/prueba', function () {
-
-   return response()->json([
-       "arregloHumA" => [0.50, 0.20, 0.10, 0.40, 0.15, 0.25],
-       "arregloHumS" => [0.150, 0.120, 0.110, 0.140, 0.115, 0.125],
-       "arregloTemp" => [30, 200, 100, 400, 150, 250],
-   ]);
-});
-
-$router->get('/prueba/reportes', function () {
-
-    return response()->json([
-        "arregloHumA" => [0.50, 0.20, 0.10, 0.40, 0.15, 0.25],
-        "arregloHumS" => [0.150, 0.120, 0.110, 0.140, 0.115, 0.125],
-        "arregloTemp" => [30, 200, 100, 400, 150, 250],
-    ]);
-});
-
-//$router->get('/{any?}', function () {
-//    return view('inicio');
-//});
