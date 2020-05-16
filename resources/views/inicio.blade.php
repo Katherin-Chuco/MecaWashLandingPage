@@ -24,6 +24,17 @@
         <!-- Theme CSS -->
         <link id="theme-style" rel="stylesheet" href="/css/theme-1.css">
 
+        <!-- Hotjar Tracking Code for https://mecawash.heroku.com -->
+        <script>
+            (function(h,o,t,j,a,r){
+                h.hj=h.hj||function(){(h.hj.q=h.hj.q||[]).push(arguments)};
+                h._hjSettings={hjid:1455886,hjsv:6};
+                a=o.getElementsByTagName('head')[0];
+                r=o.createElement('script');r.async=1;
+                r.src=t+h._hjSettings.hjid+j+h._hjSettings.hjsv;
+                a.appendChild(r);
+            })(window,document,'https://static.hotjar.com/c/hotjar-','.js?sv=');
+        </script>
     </head>
     <body id="page-top">
     <!-- ******HEADER****** -->
@@ -59,7 +70,7 @@
                 <div class="overview col-lg-8 col-12">
                     <h2 class="title">Meca Wash te ayuda a encontrar el servicio automovilístico que necesitas al mejor precio</h2>
                     <ul class="summary">
-                        <li>Encuentra servicios de car whash, mecánica, planchado, pintura o tunning para tu vehículo</li>
+                        <li>Encuentra servicios de carwash ó mecánica para tu vehículo.</li>
                         <li>Puedes encontrar la empresa más cerca a ti, con la calidad garantizada por otros usuarios</li>
                         <li>Ahorra tiempo y recibe una cotización a domicilio</li>
                     </ul>
