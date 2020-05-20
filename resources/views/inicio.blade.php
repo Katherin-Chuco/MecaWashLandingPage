@@ -7,7 +7,7 @@
         <meta http-equiv="X-UA-Compatible" content="IE=edge">
         <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
 
-        <title>Meca Wash</title>
+        <title>AR BeastBox</title>
 
         <link rel="shortcut icon" href="favicon.ico">
         <link href='https://fonts.googleapis.com/css?family=Lato:300,400,700,300italic,400italic,700italic' rel='stylesheet' type='text/css'>
@@ -42,8 +42,8 @@
         <div class="container">
             <h1 class="logo float-left">
                 <a class="scrollto" href="#promo">
-                    <img id="logo-image" class="logo-image" src="/img/playstore-icon.png" alt="Logo">
-                    <span class="logo-title">Meca Wash</span>
+                    <img id="logo-image" class="logo-image" src="/img/ar-icon.png" alt="Logo">
+                    <span class="logo-title">AR BeastBox</span>
                 </a>
             </h1><!--//logo-->
             <nav id="main-nav" class="main-nav navbar-light navbar-expand-md" role="navigation">
@@ -53,9 +53,7 @@
                 <div class="navbar-collapse collapse justify-content-end" id="navbar-collapse">
                     <ul class="nav navbar-nav">
                         <li class="active nav-item sr-only"><a class="scrollto" href="#promo">Home</a></li>
-                        <li class="nav-item"><a class="nav-link scrollto" href="#features">Funcionalidades</a></li>
-                        <li class="nav-item"><a class="nav-link scrollto" href="#story">¿Como funciona?</a></li>
-                        <li class="nav-item"><a class="nav-link scrollto" href="#pricing">Precios</a></li>
+                        <li class="nav-item"><a class="nav-link scrollto" href="#how">¿Como funciona?</a></li>
                         <li class="nav-item last"><a class="nav-link scrollto" href="#contact">Descarga</a></li>
                     </ul><!--//nav-->
                 </div><!--//navabr-collapse-->
@@ -68,22 +66,20 @@
         <div class="container">
             <div class="row">
                 <div class="overview col-lg-8 col-12">
-                    <h2 class="title">Meca Wash te ayuda a encontrar el servicio automovilístico que necesitas al mejor precio</h2>
+                    <h2 class="title">Es tiempo de hacer realidad tus beats</h2>
                     <ul class="summary">
-                        <li>Encuentra servicios de carwash ó mecánica para tu vehículo.</li>
-                        <li>Puedes encontrar la empresa más cerca a ti, con la calidad garantizada por otros usuarios</li>
-                        <li>Ahorra tiempo y recibe una cotización a domicilio</li>
+                        <li>Mira los efectos de tu voz en realidad aumentada</li>
+                        <li>Comparte lo que lograste con tus amigos.</li>
+                        <li>Promueve el beatbox</li>
                     </ul>
                     <div class="download-area">
                         <ul class="list-inline">
-                            <li class="ios-btn list-inline-item"><a href="#">Descarga desde el App Store</a></li>
                             <li class="android-btn list-inline-item"><a href="#">Obtenlo desde Google Play</a></li>
-                        </ul>
-                        <div class="note text-center">
-                            <p>Regístrate ahora y recibe <br/> 30% de descuento <br/> en tu primera reserva</p>
-                            <span class="left-arrow"></span>
-                            <span class="right-arrow"></span>
-                        </div><!--//note-->
+                       </ul>
+                       <div class="note text-center">
+                           <p style="color: white">Regístrate ahora y <br/> se uno de los primeros <br/> en probar la aplicación.</p>
+
+                         </div><!--//note-->
                     </div>
                 </div><!--//overview-->
 
@@ -94,13 +90,13 @@
                             <div class="slider flexslider">
                                 <ul class="slides">
                                     <li>
-                                        <img src="/images/android/android-slide-1.png"  alt="" />
+                                        <img src="/images/android/android-slide-1.png"  alt="" style="width: 100%; height: 100%"/>
                                     </li>
                                     <li>
-                                        <img src="/images/android/android-slide-2.png"  alt="" />
+                                        <img src="/images/android/android-slide-2.jpeg"  alt="" style="width: 100%; height: 100%" />
                                     </li>
-                                    <li>
-                                        <img src="/images/android/android-slide-3.png"  alt="" />
+                                    <li >
+                                        <img src="/images/android/android-slide-3.jpeg"  alt="" style="width: 100%; height: 100%" />
                                     </li>
                                 </ul><!--//slides-->
                             </div><!--//flexslider-->
@@ -112,84 +108,13 @@
         </div><!--//container-->
     </section><!--//promo-->
 
-    <!-- ******FEATURES****** -->
-    <section id="features" class="features section">
-        <div class="container">
-            <h2 class="title text-center">Funcionalidades para Clientes</h2>
-            <br>
-            <br>
-            <div class="row">
-                <div class="item col-lg-4 col-md-6 col-12 text-center">
-                    <div class="icon">
-                        <i class="fas fa-map-marker-alt"></i>
-                    </div><!--//icon-->
-                    <div class="content">
-                        <h3 class="title">Empresas cercanas a tu ubicación.</h3>
-
-                    </div><!--//content-->
-                </div><!--//item-->
-                <div class="item col-lg-4 col-md-6 col-12 text-center">
-                    <div class="icon">
-                        <i class="fas fa-money-bill"></i>
-                    </div><!--//icon-->
-                    <div class="content">
-                        <h3 class="title">Precios de acuerdo a tu presupuesto.</h3>
-                    </div><!--//content-->
-                </div><!--//item-->
-
-                <div class="item col-lg-4 col-md-6 col-12 text-center">
-                    <div class="icon">
-                        <i class="fas fa-calendar-alt"></i>
-                    </div><!--//icon-->
-                    <div class="content">
-                        <h3 class="title">Reserva y recibe cotización de servicios.</h3>
-                    </div><!--//content-->
-                </div><!--//item-->
-            </div><!--//row-->
-
-            <br>
-            <br>
-            <br>
-            <h2 class="title text-center">Funcionalidades para Empresas</h2>
-            <br>
-            <br>
-            <div class="row">
-                <div class="item col-lg-4 col-md-6 col-12 text-center">
-                    <div class="icon">
-                        <i class="fas fa-users"></i>
-                    </div><!--//icon-->
-                    <div class="content">
-                        <h3 class="title">Acceso de una red de clientes.</h3>
-
-                    </div><!--//content-->
-                </div><!--//item-->
-                <div class="item col-lg-4 col-md-6 col-12 text-center">
-                    <div class="icon">
-                        <i class="fas fa-comments"></i>
-                    </div><!--//icon-->
-                    <div class="content">
-                        <h3 class="title">Cercanía con tus clientes.</h3>
-                    </div><!--//content-->
-                </div><!--//item-->
-
-                <div class="item col-lg-4 col-md-6 col-12 text-center">
-                    <div class="icon">
-                        <i class="fas fa-calendar-alt"></i>
-                    </div><!--//icon-->
-                    <div class="content">
-                        <h3 class="title">Control de tus servicios brindados.</h3>
-                    </div><!--//content-->
-                </div><!--//item-->
-            </div><!--//row-->
-        </div><!--//container-->
-    </section><!--//features-->
 
     <section id="how" class="how section has-pattern">
         <div class="container">
             <div class="row">
                 <div class="content col-md-6 col-12 order-md-12 text-center">
                     <h2 class="title">¿Cómo funciona?</h2>
-                    <p class="intro">Descubre como funciona Meca Wash y los testimonios de quienes usaron la aplicación.</p>
+                    <p class="intro">Descubre como funciona AR BeastBox y comienza a usar realidad aumentada con tus beats.</p>
                     <div class="qr-codes d-none d-lg-block">
                     </div><!--//qr-codes-->
                 </div><!--//content-->
@@ -202,124 +127,18 @@
         </div><!--//container-->
     </section><!--//how-->
 
-    <!-- ******HOW****** -->
-    <section id="story" class="story section has-pattern">
-        <div class="container">
-            <div class="row">
-                <div class="content col-md-6 col-12">
-                    <h2 class="title text-center">Historia detrás de la aplicación</h2>
-                    <div id="video-container" class="video-container order-md-1">
-                        <div class="embed-responsive embed-responsive-16by9">
-                            <iframe class="embed-responsive-item" src="https://player.vimeo.com/video/342636030" width="640" height="564" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
-                        </div>
-                    </div>
-
-                </div><!--//content-->
-                <div class="team col-md-5 col-12 mr-auto ml-auto" style="padding-top: 70px">
-                    <div class="row">
-                        <div class="member col-12 text-center">
-                            <img class="rounded" src="/images/team/member-1.jpg" alt="" />
-                            <p class="name">Katherin Chuco</p>
-                            <p class="title">Desarrolladora</p>
-                            <ul class="connect list-inline">
-                                <li class="list-inline-item"><a href="#" ><i class="fab fa-twitter"></i></a></li>
-                                <li class="list-inline-item"><a href="#" ><i class="fab fa-linkedin"></i></a></li>
-                                <li class="row-end list-inline-item"><a href="#" ><i class="fab fa-github"></i></a></li>
-                            </ul>
-                        </div><!--//member-->
-
-                    </div>
-                </div><!--//team-->
-            </div><!--//row-->
-        </div><!--//container-->
-    </section><!--//how-->
-
-    <!-- ******Pricing****** -->
-    <section id="pricing" class="pricing section has-pattern">
-        <div class="container">
-            <h2 class="title text-center">PLANES DE LA EMPRESA</h2>
-            <div class="price-cols row">
-                <div class="items-wrapper col-lg-10 col-12 ml-lg-auto mr-lg-auto">
-                    <div class="row">
-                        <div class="item price-1 col-md-4 col-12 text-center">
-                            <div class="item-inner">
-                                <div class="heading">
-                                    <h3 class="title">Básico</h3>
-                                    <p class="price-figure">
-                                        <span class="price-figure-inner"><span class="currency">S/.</span>
-                                            <span class="number">50</span><br /><span class="unit"> al año.</span>
-                                        </span></p>
-                                </div>
-                                <div class="content">
-                                    <ul class="list-unstyled feature-list">
-                                        <li><i class="fas fa-check"></i>1 local por empresa</li>
-                                        <li class="disabled"><i class="fas fa-times"></i>Actualizaciones gratis</li>
-                                        <li class="disabled"><i class="fas fa-times"></i>Soporte 24/7</li>
-                                    </ul>
-                                    <a class="btn btn-theme btn-block" href="#">Obtener</a>
-
-                                </div><!--//content-->
-                            </div><!--//item-inner-->
-                        </div><!--//item-->
-
-                        <div class="item price-2 col-md-4 col-12 text-center best-buy">
-                            <div class="item-inner">
-                                <div class="heading">
-                                    <h3 class="title">Premium</h3>
-                                    <p class="price-figure"><span class="price-figure-inner"><span class="currency">S/.</span><span class="number">20</span><br /><span class="unit">mensual.</span></span></p>
-                                </div>
-                                <div class="content">
-                                    <ul class="list-unstyled feature-list">
-                                        <li><i class="fas fa-check"></i>5 locales</li>
-                                        <li><i class="fas fa-check"></i>Actualizaciones gratis</li>
-                                        <li class="disabled"><i class="fas fa-times"></i>Soporte 24/7</li>
-
-                                    </ul>
-                                    <a class="btn btn-theme btn-block" href="#">Obtener</a>
-                                </div><!--//content-->
-                                <div class="ribbon">
-                                    <div class="text">Popular</div>
-                                </div><!--//ribbon-->
-                            </div><!--//item-inner-->
-                        </div><!--//item-->
-
-                        <div class="item price-3 col-md-4 col-12 text-center">
-                            <div class="item-inner">
-                                <div class="heading">
-                                    <h3 class="title">Super Premium</h3>
-                                    <p class="price-figure"><span class="price-figure-inner"><span class="currency">S/.</span><span class="number">200</span><br /><span class="unit">al año.</span></span></p>
-                                </div>
-                                <div class="content">
-                                    <ul class="list-unstyled feature-list">
-                                        <li><i class="fas fa-check"></i>Locales ilimitados</li>
-                                        <li><i class="fas fa-check"></i>Actualizaciones gratis</li>
-                                        <li><i class="fas fa-check"></i>Soporte 24/7</li>
-                                    </ul>
-                                    <a class="btn btn-theme btn-block" href="#">Obtener</a>
-
-                                </div><!--//content-->
-                            </div><!--//item-inner-->
-                        </div><!--//item-->
-                    </div><!--//row-->
-                </div><!--//items-wrapper-->
-            </div><!--//row-->
-        </div><!--//container-->
-    </section><!--//pricing-->
-
     <!-- ******CONTACT****** -->
-    <section id="promo" class="promo section offset-header has-pattern">
+    <section id="contact" class="promo section offset-header has-pattern">
         <div class="container">
             <div class="row">
                 <div class="overview col-lg-12 col-12" style="text-align: center; margin-top: 0">
                     <div class="download-area">
                         <ul class="list-inline">
-                            <li class="ios-btn list-inline-item"><a href="#">Descarga desde el App Store</a></li>
                             <li class="android-btn list-inline-item"><a href="#">Obtenlo desde Google Play</a></li>
                         </ul>
                         <div class="note text-center">
-                            <p>Regístrate ahora y recibe <br/> 30% de descuento <br/> en tu primera reserva</p>
-                            <span class="left-arrow"></span>
-                            <span class="right-arrow"></span>
+                            <p style="color: white">Regístrate ahora y <br/> se uno de los primeros <br/> en probar la aplicación.</p>
+
                         </div><!--//note-->
                     </div>
                 </div>
@@ -333,7 +152,7 @@
             <small class="copyright"><a href="/terminos-politicas">Términos y Políticas</a></small>
             <br/>
             <br/>
-            <small class="copyright">Make Solutions &copy; 2019</small>
+            <small class="copyright">AR BeastBox &copy; 2020</small>
         </div>
     </footer><!--//footer-->
 
