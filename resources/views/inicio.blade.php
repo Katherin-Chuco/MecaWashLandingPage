@@ -115,17 +115,20 @@
                 <div class="content col-md-6 col-12 order-md-12 text-center">
                     <h2 class="title" style="color: white">¿Cómo funciona?</h2>
                     <ul style="text-align: left; list-style-type:none">
-                        <li style="color: white">
-                            <span style="border: 2px solid purple; width: 35px; height: 35px; border-radius: 100%; position: absolute; background-color: purple ">1</span> Descárgate e instala AR BeatsBox en tu celular o tablet.
+                        <li style="color: white; margin-bottom: 10px ">
+                            <span style="border: 2px solid #4950C2; width: 35px; height: 35px; border-radius: 100%; position: absolute; background-color: #4950C2; text-align: center; left: 0; margin-left: 15px">1</span>
+                            Descárgate e instala AR BeatsBox en tu celular.
                         </li>
-                        <li style="color: white">
-                            <span>2</span> Selecciona una figura en realidad aumentada.
+                        <li style="color: white; margin-bottom: 15px">
+                            <span style="border: 2px solid #4950C2; width: 35px; height: 35px; border-radius: 100%; position: absolute; background-color: #4950C2; text-align: center; left: 0; margin-left: 15px">2</span>
+                            Selecciona una figura en realidad aumentada.
                         </li>
-                        <li style="color: white">
-                            <span>3</span> Comienza a grabar y observa los efectos de tu voz en la figura.
+                        <li style="color: white; margin-bottom: 10px">
+                            <span style="border: 2px solid #4950C2; width: 35px; height: 35px; border-radius: 100%; position: absolute; background-color: #4950C2; text-align: center; left: 0; margin-left: 15px">3</span>
+                            Comienza a grabar y observa los efectos de tu voz en la figura.
                         </li>
                     </ul>
-                    <p class="intro" style="color: white">Compatible con Android 8, 9 y 10.</p>
+                    <p class="intro" style="color: white; font-weight: bold; margin-top: 35px">AR BeastBox es compatible con Android a partir de la versión 7 en adelante.</p>
                     <div class="qr-codes d-none d-lg-block">
                     </div><!--//qr-codes-->
                 </div><!--//content-->
@@ -160,7 +163,7 @@
     <!-- ******FOOTER****** -->
     <footer class="footer">
         <div class="container text-center">
-            <small class="copyright"><a href="/terminos-politicas">Términos y Políticas</a></small>
+            <small class="copyright"><a href="https://policies.google.com/privacy">Política de Privacidad</a></small>
             <br/>
             <br/>
             <small class="copyright">AR BeastBox &copy; 2020</small>
