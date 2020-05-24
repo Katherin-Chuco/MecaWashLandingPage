@@ -88,7 +88,7 @@
                     <div class="android-holder phone-holder">
                         <div class="android-holder-inner">
                             <div class="slider flexslider">
-                                <ul class="slides" style="background-color: #4950c2">
+                                <ul class="slides" style="background-color: black">
                                     <li>
                                         <img src="/images/android/android-slide-1.png"  alt="" />
                                     </li>
@@ -115,7 +115,7 @@
                 <div class="content col-md-6 col-12 order-md-12 text-center">
                     <h2 class="title" style="color: white">¿Cómo funciona?</h2>
                     <ul style="text-align: left; list-style-type:none">
-                        <li style="color: white; margin-bottom: 10px ">
+                        <li style="color: white; margin-bottom: 15px ">
                             <span style="border: 2px solid #4950C2; width: 35px; height: 35px; border-radius: 100%; position: absolute; background-color: #4950C2; text-align: center; left: 0; margin-left: 15px">1</span>
                             Descárgate e instala AR BeatsBox en tu celular.
                         </li>
