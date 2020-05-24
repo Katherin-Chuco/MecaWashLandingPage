@@ -88,7 +88,7 @@
                     <div class="android-holder phone-holder">
                         <div class="android-holder-inner">
                             <div class="slider flexslider">
-                                <ul class="slides">
+                                <ul class="slides" style="background-color: #4950c2">
                                     <li>
                                         <img src="/images/android/android-slide-1.png"  alt="" />
                                     </li>
@@ -114,7 +114,18 @@
             <div class="row">
                 <div class="content col-md-6 col-12 order-md-12 text-center">
                     <h2 class="title" style="color: white">¿Cómo funciona?</h2>
-                    <p class="intro" style="color: white">Descubre como funciona AR BeastBox y comienza a usar realidad aumentada con tus beats.</p>
+                    <ul style="text-align: left; list-style-type:none">
+                        <li style="color: white">
+                            <span style="border: 2px solid purple; width: 35px; height: 35px; border-radius: 100%; position: absolute; background-color: purple ">1</span> Descárgate e instala AR BeatsBox en tu celular o tablet.
+                        </li>
+                        <li style="color: white">
+                            <span>2</span> Selecciona una figura en realidad aumentada.
+                        </li>
+                        <li style="color: white">
+                            <span>3</span> Comienza a grabar y observa los efectos de tu voz en la figura.
+                        </li>
+                    </ul>
+                    <p class="intro" style="color: white">Compatible con Android 8, 9 y 10.</p>
                     <div class="qr-codes d-none d-lg-block">
                     </div><!--//qr-codes-->
                 </div><!--//content-->
