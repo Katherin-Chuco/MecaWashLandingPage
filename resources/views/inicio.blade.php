@@ -36,7 +36,7 @@
             })(window,document,'https://static.hotjar.com/c/hotjar-','.js?sv=');
         </script>
     </head>
-    <body id="page-top">
+    <body id="page-top" style="background-color: black">
     <!-- ******HEADER****** -->
     <header id="top" class="header fixed-top">
         <div class="container">
