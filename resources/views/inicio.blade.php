@@ -42,8 +42,8 @@
         <div class="container">
             <h1 class="logo float-left">
                 <a class="scrollto" href="#promo">
-                    <img id="logo-image" class="logo-image" src="/img/ar-icon.png" alt="Logo">
-                    <span class="logo-title">AR BeastBox</span>
+                    <img id="logo-image" class="logo-image" src="/img/ar-icon-purple.png" alt="Logo">
+                    <span class="logo-title" style="color: white">AR BeastBox</span>
                 </a>
             </h1><!--//logo-->
             <nav id="main-nav" class="main-nav navbar-light navbar-expand-md" role="navigation">
@@ -52,8 +52,8 @@
                 </button>
                 <div class="navbar-collapse collapse justify-content-end" id="navbar-collapse">
                     <ul class="nav navbar-nav">
-                        <li class="active nav-item sr-only"><a class="scrollto" href="#promo">Home</a></li>
-                        <li class="nav-item"><a class="nav-link scrollto" href="#how">¿Como funciona?</a></li>
+                        <li class="active nav-item sr-only" ><a class="scrollto"  href="#promo">Home</a></li>
+                        <li class="nav-item"><a class="nav-link scrollto"  href="#how">¿Como funciona?</a></li>
                         <li class="nav-item last"><a class="nav-link scrollto" href="#contact">Descarga</a></li>
                     </ul><!--//nav-->
                 </div><!--//navabr-collapse-->
@@ -62,22 +62,22 @@
     </header><!--//header-->
 
     <!-- ******PROMO****** -->
-    <section id="promo" class="promo section offset-header has-pattern">
+    <section id="promo" class="promo section offset-header" style="background-image: url('../images/patterns/back-1.png'); background-attachment: fixed; background-size: cover">
         <div class="container">
             <div class="row">
                 <div class="overview col-lg-8 col-12">
-                    <h2 class="title">Es tiempo de hacer realidad tus beats</h2>
+                    <h2 class="title">Es tiempo de llevar tus beats a otra realidad</h2>
                     <ul class="summary">
                         <li>Mira los efectos de tu voz en realidad aumentada</li>
-                        <li>Comparte lo que lograste con tus amigos.</li>
+                        <li>Comparte lo que lograste con tus amigos</li>
                         <li>Promueve el beatbox</li>
                     </ul>
                     <div class="download-area">
                         <ul class="list-inline">
-                            <li class="android-btn list-inline-item"><a href="#">Obtenlo desde Google Play</a></li>
+                            <li class="android-btn list-inline-item" ><a style="background-color: transparent; background-size: contain" href="#">Obtenlo desde Google Play</a></li>
                        </ul>
                        <div class="note text-center">
-                           <p style="color: white">Regístrate ahora y <br/> se uno de los primeros <br/> en probar la aplicación.</p>
+                           <p style="color: yellowgreen">Descárgalo ahora y se uno de los primeros <br/> en probar la aplicación</p>
 
                          </div><!--//note-->
                     </div>
@@ -90,13 +90,13 @@
                             <div class="slider flexslider">
                                 <ul class="slides">
                                     <li>
-                                        <img src="/images/android/android-slide-1.png"  alt="" style="width: 100%; height: 100%"/>
+                                        <img src="/images/android/android-slide-1.png"  alt="" />
                                     </li>
                                     <li>
-                                        <img src="/images/android/android-slide-2.jpeg"  alt="" style="width: 100%; height: 100%" />
+                                        <img src="/images/android/android-slide-2.png"  alt="" />
                                     </li>
                                     <li >
-                                        <img src="/images/android/android-slide-3.jpeg"  alt="" style="width: 100%; height: 100%" />
+                                        <img src="/images/android/android-slide-3.png"  alt="" />
                                     </li>
                                 </ul><!--//slides-->
                             </div><!--//flexslider-->
@@ -113,8 +113,8 @@
         <div class="container">
             <div class="row">
                 <div class="content col-md-6 col-12 order-md-12 text-center">
-                    <h2 class="title">¿Cómo funciona?</h2>
-                    <p class="intro">Descubre como funciona AR BeastBox y comienza a usar realidad aumentada con tus beats.</p>
+                    <h2 class="title" style="color: white">¿Cómo funciona?</h2>
+                    <p class="intro" style="color: white">Descubre como funciona AR BeastBox y comienza a usar realidad aumentada con tus beats.</p>
                     <div class="qr-codes d-none d-lg-block">
                     </div><!--//qr-codes-->
                 </div><!--//content-->
@@ -128,16 +128,16 @@
     </section><!--//how-->
 
     <!-- ******CONTACT****** -->
-    <section id="contact" class="promo section offset-header has-pattern">
+    <section id="contact" class="promo section offset-header" style="background-image: url('../images/patterns/back-2.png'); background-attachment: fixed">
         <div class="container">
             <div class="row">
                 <div class="overview col-lg-12 col-12" style="text-align: center; margin-top: 0">
                     <div class="download-area">
                         <ul class="list-inline">
-                            <li class="android-btn list-inline-item"><a href="#">Obtenlo desde Google Play</a></li>
+                            <li class="android-btn list-inline-item"><a style="background-color: transparent; background-size: contain" href="#">Obtenlo desde Google Play</a></li>
                         </ul>
                         <div class="note text-center">
-                            <p style="color: white">Regístrate ahora y <br/> se uno de los primeros <br/> en probar la aplicación.</p>
+                            <p style="color: yellowgreen">Descárgalo ahora y se uno de los primeros <br/> en probar la aplicación.</p>
 
                         </div><!--//note-->
                     </div>
@@ -155,41 +155,6 @@
             <small class="copyright">AR BeastBox &copy; 2020</small>
         </div>
     </footer><!--//footer-->
-
-    <!-- Feature Modal -->
-    <div class="modal modal-feature" id="feature-modal-1" tabindex="-1" role="dialog" aria-labelledby="featureModalLabel-1" aria-hidden="true">
-        <div class="modal-dialog modal-lg">
-            <div class="modal-content shadow-lg border-0">
-                <div class="modal-header">
-                    <button type="button" class="close" data-dismiss="modal" aria-hidden="true">&times;</button>
-                    <h4 id="featureModalLabel-1" class="modal-title text-center">App Feature and Benefit</h4>
-                </div>
-                <div class="modal-body">
-                    <div class="row">
-                        <figure class="figure col-lg-6 col-12">
-                            <img class="img-fluid rounded" src="assets/images/features/feature-figure-1.png" alt="" />
-                            <figcaption class="caption">Figure caption goes here </figcaption>
-                        </figure>
-                        <div class="content col-lg-6 col-12">
-                            <p>You can use the modal to explain one of your app's features/benefits in details. Lorem ipsum dolor sit amet, consectetuer adipiscing elit. </p>
-                            <p>In enim justo, rhoncus ut, imperdiet a, venenatis vitae, justo. Nullam dictum felis eu pede mollis pretium. Integer tincidunt. Cras dapibus. Vivamus elementum semper nisi. </p>
-                            <ul class="list-unstyled">
-                                <li><i class="fas fa-star"></i>Lorem ipsum dolor sit ame</li>
-                                <li><i class="fas fa-star"></i>Curabitur elit elit</li>
-                                <li><i class="fas fa-star"></i>Nunc tincidunt ipsum a risus</li>
-                            </ul>
-                            <p>Donec quam felis, ultricies nec, pellentesque eu, pretium quis, sem. Nulla consequat massa quis enim. Donec pede justo, fringilla vel, aliquet nec, vulputate eget, arcu.</p>
-                            <blockquote class="quote">
-                                <p><i class="fas fa-quote-left"></i>I love this magna pellentesque in magnis gravida sit augue felis vehicula vestibulum semper penatibus justo ornare semper Gravida felis platea arcu mus non. Montes at posuere. Natoque.</p>
-                                <p class="people"><span class="name">Adam Lee</span><br><span class="title">Developer, AppHunt</span></p>
-                            </blockquote>
-                        </div><!--//content-->
-                    </div><!--//row-->
-                </div><!--//modal-body-->
-            </div><!--//modal-content-->
-        </div><!--//modal-dialog-->
-    </div><!--//modal-->
-
 
     <!-- Javascript -->
     <script type="text/javascript" src="/js/jquery-3.3.1.min.js"></script>
