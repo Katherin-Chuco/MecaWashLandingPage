@@ -117,7 +117,7 @@
                     <ul style="text-align: left; list-style-type:none">
                         <li style="color: white; margin-bottom: 15px ">
                             <span style="border: 2px solid #4950C2; width: 35px; height: 35px; border-radius: 100%; position: absolute; background-color: #4950C2; text-align: center; left: 0; margin-left: 15px">1</span>
-                            Descárgate e instala AR BeatsBox en tu celular.
+                            Descárgate e instala AR BeastBox en tu celular.
                         </li>
                         <li style="color: white; margin-bottom: 15px">
                             <span style="border: 2px solid #4950C2; width: 35px; height: 35px; border-radius: 100%; position: absolute; background-color: #4950C2; text-align: center; left: 0; margin-left: 15px">2</span>
