@@ -12,7 +12,7 @@
 
         <meta property="og:type" content="website" />
         <meta property="og:url" content="https://arbeastbox.herokuapp.com" />
-        <meta property="og:image" content="https://arbeastbox.herokuapp.com/images/patterns/back-2.png" />
+        <meta property="og:image" content="https://arbeastbox.herokuapp.com/img/image-content.png" />
         <meta property="og:title" content="AR BeastBox" />
         <meta property="og:description" content="Es tiempo de llevar tus beats a otra realidad." />
         <meta author="AR BeastBox" />
@@ -84,7 +84,7 @@
                     </ul>
                     <div class="download-area">
                         <ul class="list-inline">
-                            <li class="android-btn list-inline-item" ><a style="background-color: transparent; background-size: contain" href="#">Obtenlo desde Google Play</a></li>
+                            <li class="android-btn list-inline-item" ><a style="background-color: transparent; background-size: contain" href="https://forms.gle/mguAjmwrP9o9z57E6">Obtenlo desde Google Play</a></li>
                        </ul>
                        <div class="note text-center">
                            <p style="color: yellowgreen">Descárgalo ahora y se uno de los primeros <br/> en probar la aplicación</p>
@@ -158,7 +158,7 @@
                 <div class="overview col-lg-12 col-12" style="text-align: center; margin-top: 0">
                     <div class="download-area">
                         <ul class="list-inline">
-                            <li class="android-btn list-inline-item"><a style="background-color: transparent; background-size: contain" href="#">Obtenlo desde Google Play</a></li>
+                            <li class="android-btn list-inline-item"><a style="background-color: transparent; background-size: contain" href="https://forms.gle/mguAjmwrP9o9z57E6">Obtenlo desde Google Play</a></li>
                         </ul>
                         <div class="note text-center">
                             <p style="color: yellowgreen">Descárgalo ahora y se uno de los primeros <br/> en probar la aplicación.</p>
