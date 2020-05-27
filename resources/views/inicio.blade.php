@@ -78,9 +78,9 @@
                 <div class="overview col-lg-8 col-12">
                     <h2 class="title">Es tiempo de llevar tus beats a otra realidad</h2>
                     <ul class="summary">
-                        <li>Mira los efectos de tu voz en realidad aumentada</li>
+                        <li>Mira los efectos de tu voz en realidad aumentada.</li>
                         <li>Guarda tus grabaciones y reprodúcelas cuando quieras.</li>
-                        <li>Promueve el beatbox</li>
+                        <li>Promueve el beatbox.</li>
                     </ul>
                     <div class="download-area">
                         <ul class="list-inline">
@@ -144,7 +144,7 @@
                 </div><!--//content-->
                 <div id="video-container" class="video-container col-md-6 col-12 order-md-1">
                     <div class="embed-responsive embed-responsive-16by9">
-                        <iframe class="embed-responsive-item" src="https://vimeo.com/423266487" width="640" height="564" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
+                        <iframe class="embed-responsive-item" src="https://player.vimeo.com/video/423266487" width="640" height="564" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
                     </div>
                 </div><!--//video-->
             </div><!--//row-->
