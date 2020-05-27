@@ -11,10 +11,9 @@
         <title>AR BeastBox</title>
 
         <meta property="og:type" content="website" />
-        <meta property="og:url" content="http://arbeastbox.ml/" />
-        <meta property="og:image" content="../images/patterns/back-2.png" />
+        <meta property="og:url" content="https://arbeastbox.herokuapp.com" />
+        <meta property="og:image" content="https://arbeastbox.herokuapp.com/images/patterns/back-2.png" />
         <meta property="og:title" content="AR BeastBox" />
-        <meta name="description" content="Es tiempo de llevar tus beats a otra realidad." />
         <meta property="og:description" content="Es tiempo de llevar tus beats a otra realidad." />
         <meta author="AR BeastBox" />
 
