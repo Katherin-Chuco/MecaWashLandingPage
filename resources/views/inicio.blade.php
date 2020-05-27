@@ -79,7 +79,7 @@
                     <h2 class="title">Es tiempo de llevar tus beats a otra realidad</h2>
                     <ul class="summary">
                         <li>Mira los efectos de tu voz en realidad aumentada</li>
-                        <li>Comparte lo que lograste con tus amigos</li>
+                        <li>Guarda tus grabaciones y reprodúcelas cuando quieras.</li>
                         <li>Promueve el beatbox</li>
                     </ul>
                     <div class="download-area">
@@ -87,7 +87,7 @@
                             <li class="android-btn list-inline-item" ><a style="background-color: transparent; background-size: contain" href="https://forms.gle/mguAjmwrP9o9z57E6">Obtenlo desde Google Play</a></li>
                        </ul>
                        <div class="note text-center">
-                           <p style="color: yellowgreen">Descárgalo ahora y se uno de los primeros <br/> en probar la aplicación</p>
+                           <p style="color: yellowgreen">Descárgalo ahora y se uno de los primeros <br/> en probar la aplicación gratis!</p>
 
                          </div><!--//note-->
                     </div>
@@ -144,7 +144,7 @@
                 </div><!--//content-->
                 <div id="video-container" class="video-container col-md-6 col-12 order-md-1">
                     <div class="embed-responsive embed-responsive-16by9">
-                        <iframe class="embed-responsive-item" src="https://player.vimeo.com/video/344995465" width="640" height="564" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
+                        <iframe class="embed-responsive-item" src="https://vimeo.com/423266487" width="640" height="564" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
                     </div>
                 </div><!--//video-->
             </div><!--//row-->
@@ -161,7 +161,7 @@
                             <li class="android-btn list-inline-item"><a style="background-color: transparent; background-size: contain" href="https://forms.gle/mguAjmwrP9o9z57E6">Obtenlo desde Google Play</a></li>
                         </ul>
                         <div class="note text-center">
-                            <p style="color: yellowgreen">Descárgalo ahora y se uno de los primeros <br/> en probar la aplicación.</p>
+                            <p style="color: yellowgreen">Descárgalo ahora y se uno de los primeros <br/> en probar la aplicación gratis!</p>
 
                         </div><!--//note-->
                     </div>
