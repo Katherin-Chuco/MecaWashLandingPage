@@ -176,7 +176,7 @@
             <h2 class="title text-center animated fadeInUp delayp1" style="opacity: 0;">Comentarios</h2>
             <div class="row text-center">
                 <div class="intro col-lg-6 col-12 ml-lg-auto mr-lg-auto animated fadeInUp delayp2" style="opacity: 0;">
-                    <p>Tu opinión nos importa, déjanos tus comentarios de tu experiencia usando la aplicación.</p>
+                    <p>AR Beastbox es una aplicación desarrollada como trabajo académico. Por ello tu opinión nos importa, déjanos tus comentarios de tu experiencia usando la aplicación.</p>
                     <ul class="list-unstyled contact-details">
                         <li><i class="fas fa-envelope"></i><a target="_blank" href="ar.beastbox@gmail.com">ar.beastbox@gmail.com</a></li>
                         <li><i class="fas fa-phone-square"></i><span style="color: white">+51 973883098</span></li>
