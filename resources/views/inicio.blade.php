@@ -145,7 +145,7 @@
                 </div><!--//content-->
                 <div id="video-container" class="video-container col-md-6 col-12 order-md-1">
                     <div class="embed-responsive embed-responsive-16by9">
-                        <iframe class="embed-responsive-item" src="https://player.vimeo.com/video/423266487" width="640" height="564" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
+                        <iframe class="embed-responsive-item" src="//player.vimeo.com/video/423266487" width="570" height="320" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
                     </div>
                 </div><!--//video-->
             </div><!--//row-->
@@ -178,8 +178,8 @@
                 <div class="intro col-lg-6 col-12 ml-lg-auto mr-lg-auto animated fadeInUp delayp2" style="opacity: 0;">
                     <p>Tu opinión nos importa, déjanos tus comentarios</p>
                     <ul class="list-unstyled contact-details">
-                        <li><i class="fas fa-envelope"></i><a href="mailto:hello@website.com">hello@website.com</a></li>
-                        <li><i class="fas fa-phone-square"></i><span style="color: white">0800 123 456</span></li>
+                        <li><i class="fas fa-envelope"></i><a href="ar.beastbox@gmail.com">ar.beastbox@gmail.com</a></li>
+                        <li><i class="fas fa-phone-square"></i><span style="color: white">+51 973883098</span></li>
                     </ul>
                 </div>
             </div>
@@ -190,7 +190,7 @@
             </div><!--//video-->
             <div class="text-center">
                 <ul class="social-icons list-inline">
-                    <li class="list-inline-item"><a href="#" ><i class="fab fa-facebook-f"></i></a></li>
+                    <li class="list-inline-item"><a href="https://www.facebook.com/AR-Beastbox-103414894734319" ><i class="fab fa-facebook-f"></i></a></li>
                     <li class="list-inline-item"><a href="#" ><i class="fab fa-instagram"></i></a></li>
                 </ul><!--//social-icons-->
             </div><!--//row-->
