@@ -85,7 +85,7 @@
                     </ul>
                     <div class="download-area">
                         <ul class="list-inline">
-                            <li class="android-btn list-inline-item" ><a style="background-color: transparent; background-size: contain" href="https://forms.gle/mguAjmwrP9o9z57E6">Obtenlo desde Google Play</a></li>
+                            <li class="android-btn list-inline-item" ><a target="_blank" style="background-color: transparent; background-size: contain" href="https://forms.gle/mguAjmwrP9o9z57E6">Obtenlo desde Google Play</a></li>
                        </ul>
                        <div class="note text-center">
                            <p style="color: yellowgreen">!Descárgalo ahora y se uno de los primeros <br/> en probar la aplicación gratis!</p>
@@ -159,7 +159,7 @@
                 <div class="overview col-lg-12 col-12" style="text-align: center; margin-top: 0">
                     <div class="download-area">
                         <ul class="list-inline">
-                            <li class="android-btn list-inline-item"><a style="background-color: transparent; background-size: contain" href="https://forms.gle/mguAjmwrP9o9z57E6">Obtenlo desde Google Play</a></li>
+                            <li class="android-btn list-inline-item"><a target="_blank" style="background-color: transparent; background-size: contain" href="https://forms.gle/mguAjmwrP9o9z57E6">Obtenlo desde Google Play</a></li>
                         </ul>
                         <div class="note text-center">
                             <p style="color: yellowgreen">!Descárgalo ahora y se uno de los primeros <br/> en probar la aplicación gratis!</p>
@@ -176,9 +176,9 @@
             <h2 class="title text-center animated fadeInUp delayp1" style="opacity: 0;">Comentarios</h2>
             <div class="row text-center">
                 <div class="intro col-lg-6 col-12 ml-lg-auto mr-lg-auto animated fadeInUp delayp2" style="opacity: 0;">
-                    <p>Tu opinión nos importa, déjanos tus comentarios</p>
+                    <p>Tu opinión nos importa, déjanos tus comentarios de tu experiencia usando la aplicación.</p>
                     <ul class="list-unstyled contact-details">
-                        <li><i class="fas fa-envelope"></i><a href="ar.beastbox@gmail.com">ar.beastbox@gmail.com</a></li>
+                        <li><i class="fas fa-envelope"></i><a target="_blank" href="ar.beastbox@gmail.com">ar.beastbox@gmail.com</a></li>
                         <li><i class="fas fa-phone-square"></i><span style="color: white">+51 973883098</span></li>
                     </ul>
                 </div>
@@ -190,8 +190,8 @@
             </div><!--//video-->
             <div class="text-center">
                 <ul class="social-icons list-inline">
-                    <li class="list-inline-item"><a href="https://www.facebook.com/AR-Beastbox-103414894734319" ><i class="fab fa-facebook-f"></i></a></li>
-                    <li class="list-inline-item"><a href="#" ><i class="fab fa-instagram"></i></a></li>
+                    <li class="list-inline-item"><a target="_blank" href="https://www.facebook.com/AR-Beastbox-103414894734319" ><i class="fab fa-facebook-f"></i></a></li>
+                    <li class="list-inline-item"><a target="_blank" href="#" ><i class="fab fa-instagram"></i></a></li>
                 </ul><!--//social-icons-->
             </div><!--//row-->
         </div><!--//container-->
@@ -201,7 +201,7 @@
     <!-- ******FOOTER****** -->
     <footer class="footer">
         <div class="container text-center">
-            <small class="copyright"><a href="https://policies.google.com/privacy">Política de Privacidad</a></small>
+            <small class="copyright"><a href="https://policies.google.com/privacy" target="_blank">Política de Privacidad</a></small>
             <br/>
             <br/>
             <small class="copyright">AR BeastBox &copy; 2020</small>
