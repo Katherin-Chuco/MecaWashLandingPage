@@ -184,8 +184,8 @@
                     </ul>
                 </div>
             </div>
-            <div id="video-container" class="row text-center">
-                <div class="contact-form col-lg-6 col-12 ml-lg-auto mr-lg-auto">
+            <div class="row text-center">
+                <div class="embed-responsive embed-responsive-16by9">
                     <iframe src="https://docs.google.com/forms/d/e/1FAIpQLScoYjCJsOz5EYtXLqWas-nHn2Vj062jef0UaQkk3gP2t6FWgQ/viewform?embedded=true" width="640" height="1268" frameborder="0" marginheight="0" marginwidth="0">Cargando…</iframe>
                 </div>
             </div><!--//video-->
