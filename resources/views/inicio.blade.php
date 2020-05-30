@@ -65,6 +65,7 @@
                         <li class="active nav-item sr-only" ><a class="scrollto"  href="#promo">Home</a></li>
                         <li class="nav-item"><a class="nav-link scrollto"  href="#how">¿Como funciona?</a></li>
                         <li class="nav-item last"><a class="nav-link scrollto" href="#contact">Descarga</a></li>
+                        <li class="nav-item last"><a class="nav-link scrollto" href="#formulario">Comentarios</a></li>
                     </ul><!--//nav-->
                 </div><!--//navabr-collapse-->
             </nav><!--//main-nav-->
@@ -87,7 +88,7 @@
                             <li class="android-btn list-inline-item" ><a style="background-color: transparent; background-size: contain" href="https://forms.gle/mguAjmwrP9o9z57E6">Obtenlo desde Google Play</a></li>
                        </ul>
                        <div class="note text-center">
-                           <p style="color: yellowgreen">Descárgalo ahora y se uno de los primeros <br/> en probar la aplicación gratis!</p>
+                           <p style="color: yellowgreen">!Descárgalo ahora y se uno de los primeros <br/> en probar la aplicación gratis!</p>
 
                          </div><!--//note-->
                     </div>
@@ -161,7 +162,7 @@
                             <li class="android-btn list-inline-item"><a style="background-color: transparent; background-size: contain" href="https://forms.gle/mguAjmwrP9o9z57E6">Obtenlo desde Google Play</a></li>
                         </ul>
                         <div class="note text-center">
-                            <p style="color: yellowgreen">Descárgalo ahora y se uno de los primeros <br/> en probar la aplicación gratis!</p>
+                            <p style="color: yellowgreen">!Descárgalo ahora y se uno de los primeros <br/> en probar la aplicación gratis!</p>
 
                         </div><!--//note-->
                     </div>
@@ -169,6 +170,33 @@
             </div>
         </div><!--//container-->
     </section><!--//contact-->
+
+    <section id="formulario" class="contact section has-pattern">
+        <div class="container">
+            <h2 class="title text-center animated fadeInUp delayp1" style="opacity: 0;">Comentarios</h2>
+            <div class="row text-center">
+                <div class="intro col-lg-6 col-12 ml-lg-auto mr-lg-auto animated fadeInUp delayp2" style="opacity: 0;">
+                    <p>Tu opinión nos importa, déjanos tus comentarios</p>
+                    <ul class="list-unstyled contact-details">
+                        <li><i class="fas fa-envelope"></i><a href="mailto:hello@website.com">hello@website.com</a></li>
+                        <li><i class="fas fa-phone-square"></i><span style="color: white">0800 123 456</span></li>
+                    </ul>
+                </div>
+            </div>
+            <div id="video-container" class="row text-center">
+                <div class="contact-form col-lg-6 col-12 ml-lg-auto mr-lg-auto">
+                    <iframe src="https://docs.google.com/forms/d/e/1FAIpQLScoYjCJsOz5EYtXLqWas-nHn2Vj062jef0UaQkk3gP2t6FWgQ/viewform?embedded=true" width="640" height="1268" frameborder="0" marginheight="0" marginwidth="0">Cargando…</iframe>
+                </div>
+            </div><!--//video-->
+            <div class="text-center">
+                <ul class="social-icons list-inline">
+                    <li class="list-inline-item"><a href="#" ><i class="fab fa-facebook-f"></i></a></li>
+                    <li class="list-inline-item"><a href="#" ><i class="fab fa-instagram"></i></a></li>
+                </ul><!--//social-icons-->
+            </div><!--//row-->
+        </div><!--//container-->
+    </section><!--//how-->
+
 
     <!-- ******FOOTER****** -->
     <footer class="footer">
